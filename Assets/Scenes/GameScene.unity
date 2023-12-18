@@ -882,6 +882,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: CuttingCounter
       objectReference: {fileID: 0}
+    - target: {fileID: 5377526464703176492, guid: fd96eceb3f4aa2e4fb15a602e01cf59e,
+        type: 3}
+      propertyPath: cuttingRecipeSOArray.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5377526464703176492, guid: fd96eceb3f4aa2e4fb15a602e01cf59e,
+        type: 3}
+      propertyPath: cuttingRecipeSOArray.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 5b48f6a56436e7440bc0b8ace5c23845,
+        type: 2}
+    - target: {fileID: 5377526464703176492, guid: fd96eceb3f4aa2e4fb15a602e01cf59e,
+        type: 3}
+      propertyPath: cuttingRecipeSOArray.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: ea1dfb059be0f264fb9938f68b0d2494,
+        type: 2}
+    - target: {fileID: 5377526464703176492, guid: fd96eceb3f4aa2e4fb15a602e01cf59e,
+        type: 3}
+      propertyPath: cuttingRecipeSOArray.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: 5938c3f07e5b81245aef24604ea9eb04,
+        type: 2}
     - target: {fileID: 9114204817156547051, guid: fd96eceb3f4aa2e4fb15a602e01cf59e,
         type: 3}
       propertyPath: m_LocalPosition.x
